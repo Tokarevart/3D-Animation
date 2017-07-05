@@ -1,0 +1,20 @@
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\bin\Debug\[Pr.] Animation.exe.config
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\bin\Debug\[Pr.] Animation.exe.config
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\bin\Debug\[Pr.] Animation.exe
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\bin\Debug\[Pr.] Animation.pdb
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Debug\_Pr.__Animation.FlyingBallsF.resources
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Debug\_Pr.__Animation.Form1.resources
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Debug\_Pr.__Animation.Properties.Resources.resources
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Debug\[Pr.] Animation.csproj.GenerateResource.Cache
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Debug\[Pr.] Animation.exe
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Debug\[Pr.] Animation.pdb
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Debug\[Pr.] Animation.csprojResolveAssemblyReference.cache
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Debug\[Pr.] Animation.exe
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Debug\[Pr.] Animation.pdb
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\bin\Debug\[Pr.] Animation.exe
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\bin\Debug\[Pr.] Animation.pdb
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Debug\[Pr.] Animation.csprojResolveAssemblyReference.cache
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Debug\_Pr.__Animation.FlyingBallsF.resources
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Debug\_Pr.__Animation.Form1.resources
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Debug\_Pr.__Animation.Properties.Resources.resources
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Debug\[Pr.] Animation.csproj.GenerateResource.Cache

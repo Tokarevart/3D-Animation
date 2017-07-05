@@ -1,0 +1,25 @@
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\bin\Release\[Pr.] Animation.exe.config
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\bin\Release\[Pr.] Animation.exe
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\bin\Release\[Pr.] Animation.pdb
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Release\_Pr.__Animation.Properties.Resources.resources
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Release\[Pr.] Animation.csproj.GenerateResource.Cache
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Release\[Pr.] Animation.exe
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Release\[Pr.] Animation.pdb
+F:\Programming\Программы\C#\[Pr.] Animation\[Pr.] Animation\obj\Release\_Pr.__Animation.FlyingBallsF.resources
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\bin\Release\[Pr.] Animation.exe.config
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Release\[Pr.] Animation.exe
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Release\[Pr.] Animation.pdb
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\bin\Release\[Pr.] Animation.exe
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\bin\Release\[Pr.] Animation.pdb
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Release\_Pr.__Animation.FlyingBallsF.resources
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Release\_Pr.__Animation.Form1.resources
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Release\_Pr.__Animation.Properties.Resources.resources
+F:\Programming\Программы\C#\[Pr.] Animation Backup - копия\[Pr.] Animation\obj\Release\[Pr.] Animation.csproj.GenerateResource.Cache
+F:\Programming\Программы\C#\3D Animation\[Pr.] Animation\bin\Release\[Pr.] Animation.exe.config
+F:\Programming\Программы\C#\3D Animation\[Pr.] Animation\obj\Release\[Pr.] Animation.exe
+F:\Programming\Программы\C#\3D Animation\[Pr.] Animation\obj\Release\[Pr.] Animation.pdb
+F:\Programming\Программы\C#\3D Animation\[Pr.] Animation\bin\Release\[Pr.] Animation.exe
+F:\Programming\Программы\C#\3D Animation\[Pr.] Animation\bin\Release\[Pr.] Animation.pdb
+F:\Programming\Программы\C#\3D Animation\[Pr.] Animation\obj\Release\_Pr.__Animation.FlyingBallsF.resources
+F:\Programming\Программы\C#\3D Animation\[Pr.] Animation\obj\Release\_Pr.__Animation.Properties.Resources.resources
+F:\Programming\Программы\C#\3D Animation\[Pr.] Animation\obj\Release\[Pr.] Animation.csproj.GenerateResource.Cache
